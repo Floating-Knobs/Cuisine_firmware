@@ -1,0 +1,7 @@
+Cuisine Firmware V1.01.1
+Minor update
+
+Bug fixes :
+- pattern was not changing properly
+- TRANSPOSE could still be applied when OFF
+- Default settings reworked

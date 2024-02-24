@@ -1,0 +1,1 @@
+avrdude -C C:\Users\doria\.platformio\packages/tool-avrdude-megaavr/avrdude.conf -p atmega4809 -P COM4 -b 115200 -c arduino -v -p atmega4809 -C C:\Users\doria\.platformio\packages\tool-avrdude\avrdude.conf -c arduino -D -b 115200 -P "COM4" -U flash:w:.pio\build\ATmega4809\firmware.hex:i
